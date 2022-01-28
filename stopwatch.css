@@ -1,0 +1,30 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+.container {
+    margin-top: 100px auto;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+    text-align: center;
+    color: green;
+}
+p {
+    font-size: 5em;
+    color: red;
+}
+button {
+    border: none; 
+    padding: 16px 11px;
+    font-size: 1.2em;
+    width: 180px;
+    margin: 10px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+    /* transition: 0.2s; */
+    border: none;
+}
